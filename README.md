@@ -1,4 +1,4 @@
-# installROSTX2
+# installROSXavier
 Install Robot Operating System (ROS) on NVIDIA Jetson AGX Xavier
 
 These scripts will install Robot Operating System (ROS) on the NVIDIA Jetson AGX Xavier Developer Kit.
@@ -6,7 +6,7 @@ These scripts will install Robot Operating System (ROS) on the NVIDIA Jetson AGX
 For L4T 31.0.2 (JetPack 4.1)
 
 
-The script is based on the Ubuntu ARM install of ROS Kinetic: http://wiki.ros.org/melodic/Installation/Ubuntu
+The script is based on the Ubuntu ARM install of ROS Melodic: http://wiki.ros.org/melodic/Installation/Ubuntu
 
 Maintainer of ARM builds for ROS is http://answers.ros.org/users/1034/ahendrix/
 
